@@ -1,0 +1,7 @@
+train: C:\Users\User\Desktop\Lenguaje\data\train\labels
+
+val: C:\Users\User\Desktop\Lenguaje\data\val\labels
+
+nc: 6
+
+nnames: ['atencion', 'corazon', 'fecha', 'Hola', 'que pasa', 'rosada']
